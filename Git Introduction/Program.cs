@@ -11,7 +11,9 @@ namespace Git_Introduction
         static void Main(string[] args)
         {
             Console.WriteLine("Hi!");
+            Console.WriteLine("oops!");
             Console.ReadLine();
+            
         }
     }
 }
